@@ -18,8 +18,8 @@ pero también podemos usar nuestro navegador para el visualizado del json de res
 ![image](https://github.com/JGVG/test_bcnc_group/assets/37996973/66d2cd01-9fe3-452e-8e1a-2cd61a24323c)
 
 La API actualmente dispone de dos peticiones
- - Recuperar los albunes -> http://localhost:8080/albums
- - Recuperar las fotos de un albun (Ej: el album con id 2) -> http://localhost:8080/albums/2/photos
+ - Recuperar los álbumes -> http://localhost:8080/albums
+ - Recuperar las fotos de un album (Ej: el album con id 2) -> http://localhost:8080/albums/2/photos
 
 La API dispone con Swagger OpenApi para una visualización más gráfica en formato web para ver los metodos que posee esta API
 
