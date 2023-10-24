@@ -1,7 +1,6 @@
 package com.jgvg.test_bcnc_group.controllers
 import com.jgvg.test_bcnc_group.models.Album
 import com.jgvg.test_bcnc_group.models.Photo
-import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.*
 import org.springframework.web.client.RestTemplate
 import java.util.Collections.emptyList
