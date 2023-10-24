@@ -14,7 +14,7 @@ fun getresttemplate(): RestTemplate {
 }
 
 fun main(args: Array<String>) {
-	SpringApplication.run(TestBcncGroupApplication::class.java, *args)
+	SpringApplication.run(com.jgvg.test_bcnc_group.TestBcncGroupApplication::class.java, *args)
 }
 
 
